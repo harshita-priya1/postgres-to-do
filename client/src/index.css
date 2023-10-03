@@ -35,5 +35,5 @@ body {
   width: 100%;
   display: flex;
   justify-content: space-between;
-  border-bottom: rgba(0, 0, 0, 0.05);
+  border-bottom: rgba(0, 0, 0, 0.05) 1px solid;
 }
